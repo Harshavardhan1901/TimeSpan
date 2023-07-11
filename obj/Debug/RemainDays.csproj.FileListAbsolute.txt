@@ -1,0 +1,8 @@
+D:\M\Day-2\RemainDays\RemainDays\bin\Debug\RemainDays.exe.config
+D:\M\Day-2\RemainDays\RemainDays\bin\Debug\RemainDays.exe
+D:\M\Day-2\RemainDays\RemainDays\bin\Debug\RemainDays.pdb
+D:\M\Day-2\RemainDays\RemainDays\obj\Debug\RemainDays.csproj.AssemblyReference.cache
+D:\M\Day-2\RemainDays\RemainDays\obj\Debug\RemainDays.csproj.SuggestedBindingRedirects.cache
+D:\M\Day-2\RemainDays\RemainDays\obj\Debug\RemainDays.csproj.CoreCompileInputs.cache
+D:\M\Day-2\RemainDays\RemainDays\obj\Debug\RemainDays.exe
+D:\M\Day-2\RemainDays\RemainDays\obj\Debug\RemainDays.pdb
